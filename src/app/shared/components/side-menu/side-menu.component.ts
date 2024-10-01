@@ -18,10 +18,11 @@ export class SideMenuComponent {
     {title: 'Dinámicos', route: './reactive/dynamic'},
     {title: 'Switches', route: './reactive/switches'},
 
+
   ]
 
   public authMenu: MenuItem[] = [
-    {title: 'Registro', route: './auth'},
+    {title: 'Registro', route: './reactive/sign-up'},
 
 
   ]
